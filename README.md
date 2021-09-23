@@ -24,5 +24,5 @@ ETH Bonus from ETHMATRIX
 How do you get your reward?
 You do not need claim your rewards, your rewards are sent to your wallet where you keep your ETHMATRIX Tokens. So there is no risk that you will miss your dividend. The distribution takes place every 6 hours.
 
-BSC ADDRESS: https://bscscan.com/address/0x1f5cd92a4A864FC67D8ACbeDd12Ff2f844617526#code
+BSC ADDRESS: https://bscscan.com/address/0x1f5cd92a4A864FC67D8ACbeDd12Ff2f844617526#code.  
 More detail: https://ethermatrix.org/
